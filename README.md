@@ -11,7 +11,8 @@ About Me
 🔍 I have a keen eye for detail and am committed to writing clean, maintainable code that adheres to best practices and industry standards.
 📚 I'm always eager to learn and stay up-to-date with the latest technologies and trends in the ever-evolving world of web development.
 Get in Touch
-I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on :LinkedIn:https://www.linkedin.com/in/moustapha-souane-180a7412a/
+I'm always open to collaboration and new opportunities. Feel free to reach out to me via email or connect with me on :
+LinkedIn:https://www.linkedin.com/in/moustapha-souane-180a7412a/
 Email: msouane91@gmail.com
 
 Let's build something awesome together! 🚀🌟
